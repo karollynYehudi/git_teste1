@@ -1,0 +1,19 @@
+{
+  "name": "git_teste1",
+  "version": "1.0.0",
+  "description": "\"Este é um projeto git teste\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karollynYehudi/git_teste1.git"
+  },
+  "author": "\"Karollyn\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karollynYehudi/git_teste1/issues"
+  },
+  "homepage": "https://github.com/karollynYehudi/git_teste1#readme"
+}
